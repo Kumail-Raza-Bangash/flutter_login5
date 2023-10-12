@@ -165,7 +165,7 @@ class _LoginScreenState extends State<LoginScreen> {
                             curve: Curves.ease);
                       },
                       child: const Text(
-                        'Sign Up',
+                        'Sign Up', //sigup
                         style: TextStyle(
                           color: Color(0xFF755DC1),
                           fontSize: 13,

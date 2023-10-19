@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-
+// This is the Login Screen
 class LoginScreen extends StatefulWidget {
   const LoginScreen({super.key, required this.controller});
   final PageController controller;
